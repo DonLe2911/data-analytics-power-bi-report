@@ -1,9 +1,0 @@
-Power BI Report milestone project for AICore course.
-
-1) 
-Importing data into PowerBI from various sources:
-- Azure SQL Database (Orders Table): Split order date and shipping date columns to sepearate date and time 
-- CSV (Products table): removed duplicates. Split weight column into Value and Unit using column by example. Created calcualted column converting values in grams to kg.  
-- Azure Blob Storage (Stores table)
-- Zip file (Customers table): combined the numerous csv files. Created a full name column by merging first and last name columns 
-
