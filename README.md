@@ -43,3 +43,16 @@
 - Styling and themeing
 
 ![2023-12-14 14_56_16-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/a26bcb9d-3a83-4eff-9c96-5d4404ff8ab2)
+
+## 5)
+**Create Product Detail page**
+- Gauges to track quarterly target progress on Orders, revenue and profit
+- Area chart of revenue by category
+- Top 10 products table by revenue
+- Scatter graph to see whcih product ranges are both top seliing and profitable
+- Created a slicer toolbar and using buittons/bookmarks make it appear and hidden as and when needed
+- Created a card displaying most ordered product and product with most revenue
+
+![2023-12-18 13_40_54-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/26164f33-a393-4119-87b2-3f3021f9d842)
+
+![2023-12-18 13_41_10-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/9e512ca4-349a-4822-9252-fc06db28dfc5)
