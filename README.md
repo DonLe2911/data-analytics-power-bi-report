@@ -56,3 +56,22 @@
 ![2023-12-18 13_40_54-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/26164f33-a393-4119-87b2-3f3021f9d842)
 
 ![2023-12-18 13_41_10-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/9e512ca4-349a-4822-9252-fc06db28dfc5)
+
+## 6)
+**Creating a Stores map page**
+- Add a mpa visual with bubbles representing Profit YTD
+- Added a country slicer
+- Created a drillthrough page enabling user to click on a country on the map and then click the drill through button to see individual store page detailing various useful sales/profits/orders info as well as target gauges, best performing categories and best performing products
+- Creaetd a tooltip so that when hovering over a store on the map the profit target gauge will pop up
+
+Map page: ![map](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/e883efd9-a231-4abc-a2c0-897acf2b9f89)
+
+Image showing the tooltip pop up. Also note that as a country has been selected, the drill through button is now active:
+![tooltip and drillthrough](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/2b0a185a-ec61-4c08-a985-2416cf0b9269)
+
+The store drilltrhough page with a back button to get back to the map:
+![2023-12-21 11_23_59-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/a6018af2-e54e-443e-a5d4-5911d12f7c7b)
+
+
+
+
