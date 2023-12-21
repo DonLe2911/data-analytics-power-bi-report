@@ -72,6 +72,9 @@ Image showing the tooltip pop up. Also note that as a country has been selected,
 The store drilltrhough page with a back button to get back to the map:
 ![2023-12-21 11_23_59-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/a6018af2-e54e-443e-a5d4-5911d12f7c7b)
 
-
+## 7)
+**Style touch ups & Cross filtering**
+- Finishing touches to style and layout
+- managed cross filtering on individual visuals so some are locked to not intereact with others when not wanted. 
 
 
