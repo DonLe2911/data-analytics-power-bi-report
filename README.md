@@ -53,9 +53,9 @@
 - Created a slicer toolbar and using buittons/bookmarks make it appear and hidden as and when needed
 - Created a card displaying most ordered product and product with most revenue
 
-![2023-12-18 13_40_54-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/26164f33-a393-4119-87b2-3f3021f9d842)
+![11](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/b14d1958-beaa-4480-abac-65b3da5689e1)
 
-![2023-12-18 13_41_10-Power BI Report - AiCore](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/9e512ca4-349a-4822-9252-fc06db28dfc5)
+![22](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/f3f723d5-6f40-42a1-a553-9b68ee094bcd)
 
 ## 6)
 **Creating a Stores map page**
