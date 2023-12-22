@@ -1,4 +1,4 @@
-# Power BI Report - Milestone project for AICore course - General Store Dataset
+# Power BI Report & some extra metrics using SQL - Milestone project for AICore course - General Store Dataset
 
 ## 1) 
 **Importing data into PowerBI from various sources**
@@ -75,6 +75,36 @@ The store drilltrhough page with a back button to get back to the map:
 ## 7)
 **Style touch ups & Cross filtering**
 - Finishing touches to style and layout
-- managed cross filtering on individual visuals so some are locked to not intereact with others when not wanted. 
+- managed cross filtering on individual visuals so some are locked to not intereact with others when not wanted.
+
+## 8)
+**Extra metrics using SQL on pgAdmin4**
+- How many staff are there in all of the UK stores?
+  
+![sql1](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/09f17b35-2b22-478c-83b1-2cef5ab0b26a)
+
+- Which month in 2022 has had the highest revenue?
+  
+![sql2](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/a7ef41e2-4e9d-4108-b186-9e340df6508a)
+
+- Which German store type had the highest revenue for 2022?
+  
+![image](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/7fef7288-81c7-45ac-9b5f-fbc503f05e3c)
+
+- Create a view where the rows are the store types and the columns are the total sales, percentage of total sales and the count of orders
+
+![sql4](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/88ecd7e7-2e13-4c5c-a7eb-657d7f6bf855)
+
+![sql5](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/02f37a29-005a-41b1-80c2-644c072849b6)
+
+- Which product category generated the most profit for the "Wiltshire, UK" region in 2021?
+
+![sql6](https://github.com/DonLe2911/data-analytics-power-bi-report/assets/16416867/953a6b76-811d-4045-8d8b-39a01994992c)
+
+
+
+
+
+
 
 
